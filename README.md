@@ -1,2 +1,3 @@
-# Bonvoyage
-It is a virtual itinerary which displays mini glimpses of places Or city around the world. Through this informative brochures one can have a online tour of the preferred city.
+# Students Record in hostel
+
+This Hostel Management is developed for the management which helps to keep records of the students about their details like student names, email, parent names, address, phone number, etc.
